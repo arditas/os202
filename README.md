@@ -6,7 +6,7 @@
 ## Operating Systems Weekly Top Ten List
 
 This is my Weekly Top Ten List for OS (Operating System) Course Assignment.
-* ** [Week 00](w00/)
+* ** [Week 00](w00.md)
 * ** [Week 01](w01/)
 * ** [Week 02](w02/)
 * ** [Week 03](w03/)
